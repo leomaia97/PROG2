@@ -31,5 +31,4 @@ int main(){
 	printf("%d",qtd_linha);
 	
 	return 0;
-	
 }
